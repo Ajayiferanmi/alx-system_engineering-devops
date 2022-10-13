@@ -1,1 +1,1 @@
-not place like home
+home function
