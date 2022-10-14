@@ -1,2 +1,2 @@
 #!/bin/bash
-six firstd
+mkdir /tmp/my_first_directory/
